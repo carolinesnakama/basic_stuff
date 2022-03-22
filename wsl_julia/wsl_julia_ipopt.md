@@ -355,7 +355,7 @@ model = Model(optimizer)
 Hopefully, everything is working fine.
 
 &nbsp;
-cd 
+
 ## Some Additional Comments
 
 - You can install the WSL extension in VSCODE. You then have two environments in VSCODE and can run your codes with Windows or Linux innstallations.
